@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/broskifoo/LeetCodeSol/tree/master/0098-validate-binary-search-tree) |
+| [0209-minimum-size-subarray-sum](https://github.com/broskifoo/LeetCodeSol/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/broskifoo/LeetCodeSol/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/broskifoo/LeetCodeSol/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/broskifoo/LeetCodeSol/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/broskifoo/LeetCodeSol/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0200-number-of-islands](https://github.com/broskifoo/LeetCodeSol/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/broskifoo/LeetCodeSol/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/broskifoo/LeetCodeSol/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/broskifoo/LeetCodeSol/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/broskifoo/LeetCodeSol/tree/master/0733-flood-fill) |
@@ -158,6 +160,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/broskifoo/LeetCodeSol/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/broskifoo/LeetCodeSol/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/broskifoo/LeetCodeSol/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/broskifoo/LeetCodeSol/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/broskifoo/LeetCodeSol/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
