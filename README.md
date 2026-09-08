@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/broskifoo/LeetCodeSol/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/broskifoo/LeetCodeSol/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/broskifoo/LeetCodeSol/tree/master/0733-flood-fill) |
+| [0904-fruit-into-baskets](https://github.com/broskifoo/LeetCodeSol/tree/master/0904-fruit-into-baskets) |
 | [0994-rotting-oranges](https://github.com/broskifoo/LeetCodeSol/tree/master/0994-rotting-oranges) |
 ## Hash Table
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/broskifoo/LeetCodeSol/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0424-longest-repeating-character-replacement](https://github.com/broskifoo/LeetCodeSol/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/broskifoo/LeetCodeSol/tree/master/0567-permutation-in-string) |
+| [0904-fruit-into-baskets](https://github.com/broskifoo/LeetCodeSol/tree/master/0904-fruit-into-baskets) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/broskifoo/LeetCodeSol/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/broskifoo/LeetCodeSol/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/broskifoo/LeetCodeSol/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/broskifoo/LeetCodeSol/tree/master/0904-fruit-into-baskets) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/broskifoo/LeetCodeSol/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Prefix Sum
 |  |
