@@ -125,11 +125,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/broskifoo/LeetCodeSol/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0148-sort-list](https://github.com/broskifoo/LeetCodeSol/tree/master/0148-sort-list) |
 ## Linked List
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/broskifoo/LeetCodeSol/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0142-linked-list-cycle-ii](https://github.com/broskifoo/LeetCodeSol/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/broskifoo/LeetCodeSol/tree/master/0148-sort-list) |
 | [0876-middle-of-the-linked-list](https://github.com/broskifoo/LeetCodeSol/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |
@@ -187,10 +189,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/broskifoo/LeetCodeSol/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/broskifoo/LeetCodeSol/tree/master/0148-sort-list) |
 | [0567-permutation-in-string](https://github.com/broskifoo/LeetCodeSol/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/broskifoo/LeetCodeSol/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/broskifoo/LeetCodeSol/tree/master/0142-linked-list-cycle-ii) |
+## Sorting
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/broskifoo/LeetCodeSol/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/broskifoo/LeetCodeSol/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
