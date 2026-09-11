@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/broskifoo/LeetCodeSol/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/broskifoo/LeetCodeSol/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -184,4 +185,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/broskifoo/LeetCodeSol/tree/master/0567-permutation-in-string) |
+| [0876-middle-of-the-linked-list](https://github.com/broskifoo/LeetCodeSol/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
