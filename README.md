@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/broskifoo/LeetCodeSol/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0200-number-of-islands](https://github.com/broskifoo/LeetCodeSol/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/broskifoo/LeetCodeSol/tree/master/0209-minimum-size-subarray-sum) |
+| [0503-next-greater-element-ii](https://github.com/broskifoo/LeetCodeSol/tree/master/0503-next-greater-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/broskifoo/LeetCodeSol/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/broskifoo/LeetCodeSol/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/broskifoo/LeetCodeSol/tree/master/0713-subarray-product-less-than-k) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/broskifoo/LeetCodeSol/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/broskifoo/LeetCodeSol/tree/master/0143-reorder-list) |
+| [0503-next-greater-element-ii](https://github.com/broskifoo/LeetCodeSol/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/broskifoo/LeetCodeSol/tree/master/0739-daily-temperatures) |
 ## Backtracking
 |  |
@@ -216,5 +218,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/broskifoo/LeetCodeSol/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/broskifoo/LeetCodeSol/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
