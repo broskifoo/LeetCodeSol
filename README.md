@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/broskifoo/LeetCodeSol/tree/master/0143-reorder-list) |
 | [0503-next-greater-element-ii](https://github.com/broskifoo/LeetCodeSol/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/broskifoo/LeetCodeSol/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/broskifoo/LeetCodeSol/tree/master/0901-online-stock-span) |
 ## Backtracking
 |  |
 | ------- |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/broskifoo/LeetCodeSol/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0901-online-stock-span](https://github.com/broskifoo/LeetCodeSol/tree/master/0901-online-stock-span) |
 ## Union-Find
 |  |
 | ------- |
@@ -220,4 +222,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/broskifoo/LeetCodeSol/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/broskifoo/LeetCodeSol/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/broskifoo/LeetCodeSol/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/broskifoo/LeetCodeSol/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
