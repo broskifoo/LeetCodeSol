@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/broskifoo/LeetCodeSol/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/broskifoo/LeetCodeSol/tree/master/0143-reorder-list) |
+| [0402-remove-k-digits](https://github.com/broskifoo/LeetCodeSol/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/broskifoo/LeetCodeSol/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/broskifoo/LeetCodeSol/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/broskifoo/LeetCodeSol/tree/master/0901-online-stock-span) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/broskifoo/LeetCodeSol/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/broskifoo/LeetCodeSol/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0402-remove-k-digits](https://github.com/broskifoo/LeetCodeSol/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/broskifoo/LeetCodeSol/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/broskifoo/LeetCodeSol/tree/master/0567-permutation-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/broskifoo/LeetCodeSol/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/broskifoo/LeetCodeSol/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/broskifoo/LeetCodeSol/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/broskifoo/LeetCodeSol/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/broskifoo/LeetCodeSol/tree/master/0901-online-stock-span) |
@@ -227,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/broskifoo/LeetCodeSol/tree/master/0901-online-stock-span) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/broskifoo/LeetCodeSol/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
