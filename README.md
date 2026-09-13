@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/broskifoo/LeetCodeSol/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/broskifoo/LeetCodeSol/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/broskifoo/LeetCodeSol/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/broskifoo/LeetCodeSol/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/broskifoo/LeetCodeSol/tree/master/0904-fruit-into-baskets) |
 | [0994-rotting-oranges](https://github.com/broskifoo/LeetCodeSol/tree/master/0994-rotting-oranges) |
 ## Hash Table
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/broskifoo/LeetCodeSol/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/broskifoo/LeetCodeSol/tree/master/0143-reorder-list) |
+| [0739-daily-temperatures](https://github.com/broskifoo/LeetCodeSol/tree/master/0739-daily-temperatures) |
 ## Backtracking
 |  |
 | ------- |
@@ -211,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/broskifoo/LeetCodeSol/tree/master/0143-reorder-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/broskifoo/LeetCodeSol/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
