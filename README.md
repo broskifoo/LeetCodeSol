@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/broskifoo/LeetCodeSol/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/broskifoo/LeetCodeSol/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/broskifoo/LeetCodeSol/tree/master/0450-delete-node-in-a-bst) |
+| [0456-132-pattern](https://github.com/broskifoo/LeetCodeSol/tree/master/0456-132-pattern) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/broskifoo/LeetCodeSol/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0713-subarray-product-less-than-k](https://github.com/broskifoo/LeetCodeSol/tree/master/0713-subarray-product-less-than-k) |
 ## Array
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/broskifoo/LeetCodeSol/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0200-number-of-islands](https://github.com/broskifoo/LeetCodeSol/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/broskifoo/LeetCodeSol/tree/master/0209-minimum-size-subarray-sum) |
+| [0456-132-pattern](https://github.com/broskifoo/LeetCodeSol/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/broskifoo/LeetCodeSol/tree/master/0503-next-greater-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/broskifoo/LeetCodeSol/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/broskifoo/LeetCodeSol/tree/master/0695-max-area-of-island) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/broskifoo/LeetCodeSol/tree/master/0143-reorder-list) |
 | [0316-remove-duplicate-letters](https://github.com/broskifoo/LeetCodeSol/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/broskifoo/LeetCodeSol/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/broskifoo/LeetCodeSol/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/broskifoo/LeetCodeSol/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/broskifoo/LeetCodeSol/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/broskifoo/LeetCodeSol/tree/master/0901-online-stock-span) |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/broskifoo/LeetCodeSol/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/broskifoo/LeetCodeSol/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/broskifoo/LeetCodeSol/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/broskifoo/LeetCodeSol/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/broskifoo/LeetCodeSol/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/broskifoo/LeetCodeSol/tree/master/0901-online-stock-span) |
@@ -238,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/broskifoo/LeetCodeSol/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/broskifoo/LeetCodeSol/tree/master/0402-remove-k-digits) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/broskifoo/LeetCodeSol/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
