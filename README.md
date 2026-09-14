@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/broskifoo/LeetCodeSol/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/broskifoo/LeetCodeSol/tree/master/0904-fruit-into-baskets) |
 | [0994-rotting-oranges](https://github.com/broskifoo/LeetCodeSol/tree/master/0994-rotting-oranges) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/broskifoo/LeetCodeSol/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Hash Table
 |  |
 | ------- |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/broskifoo/LeetCodeSol/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/broskifoo/LeetCodeSol/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/broskifoo/LeetCodeSol/tree/master/0901-online-stock-span) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/broskifoo/LeetCodeSol/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Backtracking
 |  |
 | ------- |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/broskifoo/LeetCodeSol/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/broskifoo/LeetCodeSol/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/broskifoo/LeetCodeSol/tree/master/0901-online-stock-span) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/broskifoo/LeetCodeSol/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Data Stream
 |  |
 | ------- |
