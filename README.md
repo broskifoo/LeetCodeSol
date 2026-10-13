@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/broskifoo/LeetCodeSol/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/broskifoo/LeetCodeSol/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/broskifoo/LeetCodeSol/tree/master/0746-min-cost-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/broskifoo/LeetCodeSol/tree/master/1137-n-th-tribonacci-number) |
 ## String
 |  |
 | ------- |
@@ -277,8 +278,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/broskifoo/LeetCodeSol/tree/master/0070-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/broskifoo/LeetCodeSol/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/broskifoo/LeetCodeSol/tree/master/0070-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/broskifoo/LeetCodeSol/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
